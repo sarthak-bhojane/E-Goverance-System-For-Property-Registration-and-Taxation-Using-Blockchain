@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Java Installables\eclipse-jee-2022-06-R-win32-x86_64\jakrta e project\LandRegistrationBC\LandRegBC2"/>
+			<item value="D:\Java Installables\eclipse-jee-2022-06-R-win32-x86_64\jakrta e project\LandRegistrationBC\LandRegBC1\LandRegBC1"/>
+			<item value="D:\Java Installables\eclipse-jee-2022-06-R-win32-x86_64\jakrta e project\LandRegistrationBC\LandRegBC1"/>
+			<item value="D:\Java Installables\eclipse-jee-2022-06-R-win32-x86_64\jakrta e project\LandRegistrationBC"/>
+			<item value="D:\Java Installables\eclipse-jee-2022-06-R-win32-x86_64\jakrta e project\LandRegistrationBC\LandRegistrationBC"/>
+		</list>
+	</section>
+</section>

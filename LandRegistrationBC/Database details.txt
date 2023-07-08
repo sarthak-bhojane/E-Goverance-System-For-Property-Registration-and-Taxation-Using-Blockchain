@@ -1,0 +1,28 @@
+Host: bame3ouzqanb9lcbf9oa-mysql.services.clever-cloud.com
+database Name : bame3ouzqanb9lcbf9oa
+
+user: ukyhthnhovags2go
+password: IjVOcBbuxKEyUbSkjZ1H
+Connection URI
+mysql://ukyhthnhovags2go:IjVOcBbuxKEyUbSkjZ1H@bame3ouzqanb9lcbf9oa-mysql.services.clever-cloud.com:3306/bame3ouzqanb9lcbf9oa
+Mysql connection URL
+mysql -h bame3ouzqanb9lcbf9oa-mysql.services.clever-cloud.com -P 3306 -u ukyhthnhovags2go -p bame3ouzqanb9lcbf9oa
+
+
+
+Blockchain1
+HOst: blxo1tpvy6jqicycy7st-mysql.services.clever-cloud.com
+Database Name: blxo1tpvy6jqicycy7st
+user: uvt2bgflwxwfmvco
+pass: EiDZ7QqmLWzmt3pmPZU5
+Connection URI
+mysql://uvt2bgflwxwfmvco:EiDZ7QqmLWzmt3pmPZU5@blxo1tpvy6jqicycy7st-mysql.services.clever-cloud.com:3306/blxo1tpvy6jqicycy7st
+
+Blockchain2
+
+Host:bxbljw4db9m6dxfkqnv2-mysql.services.clever-cloud.com
+Database name: bxbljw4db9m6dxfkqnv2
+user name: u1ykrzqlf2fpkdrq
+password:eod8T4PfjmAmQHFJZvAi
+Connection URI
+mysql://u1ykrzqlf2fpkdrq:eod8T4PfjmAmQHFJZvAi@bxbljw4db9m6dxfkqnv2-mysql.services.clever-cloud.com:3306/bxbljw4db9m6dxfkqnv2
